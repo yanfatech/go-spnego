@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/dpotapov/go-spnego"
+	"github.com/yanfatech/go-spnego"
 )
 
 func main() {
